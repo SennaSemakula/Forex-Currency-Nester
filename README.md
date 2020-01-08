@@ -1,3 +1,4 @@
+FOREX NESTER
 -----------
 This file entails instructions required to run nest.py and server.py. 
 Scripts have been implemented to log results to standard output. 
@@ -10,6 +11,7 @@ Pre-requisites:
 1. Install dependencies
 Run 'pip3 install -r requirements.txt'
 
+running script
 -----------------------
 - Running python nest script
 -- Ensure that you're in the take_home_task directory. 
